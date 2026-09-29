@@ -1,0 +1,1 @@
+# teddykids-analytics-mcp
